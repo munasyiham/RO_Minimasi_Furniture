@@ -2,6 +2,11 @@
 
 Aplikasi **Linear Programming Metode Grafik (Persoalan Minimasi)** berbasis Streamlit untuk menentukan kombinasi produksi Meja dan Kursi dengan biaya minimum.
 
+## Link Akses View
+
+https://rominimasifurniture-unnu9nxucp6uafmajqfqrb.streamlit.app/
+
+
 ## Studi Kasus
 
 Perusahaan furniture memproduksi dua jenis produk:
